@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderponnect",
+        "uuid": 30261790,
+        "checksum": "153rax"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
